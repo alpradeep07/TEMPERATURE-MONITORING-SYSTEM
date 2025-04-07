@@ -1,3 +1,18 @@
+NAME : AAKINA LAKSHMI PRADEEP
+
+COMPANY : CODTECH IT SOLUTIONS
+
+INTERN ID : CT06WR44
+
+DOMAIN : EMBEDDED SYSTEMS
+
+DURATION : MARCH 30th, 2025 to MAY 15th, 2025 (6 WEEKS)
+
+MENTOR : NEELA SANTHOSH
+
+OVERVIEW : TEMPERATURE MONITORING SYSTEM
+
+
 # Temperature-Monitoring-System
 My Project in Microcontroller is Temperature Monitoring System using a 16X2 Liquid Crystal Display and LM35.
 
