@@ -73,8 +73,7 @@ In summary, the code reads the temperature from the LM35 sensor, displays it on 
 ---------------------------------------------------------------------------------------------------
 
 CIRCUIT DESIGN
-![CIRCUIT DESIGN](https://github.com/user-attachments/assets/534e3757-fb4b-4aa5-82de-0b0120ac3c02)
-
+![CIRCUIT DESIGN](https://github.com/user-attachments/assets/737cc037-a93c-4073-8578-c898ba57e349)
 
 **1. Introduction**
 The Temperature Monitoring System is a project that utilizes a 16X2 Liquid Crystal Display (LCD) and an LM35 temperature sensor to monitor and display real-time temperature readings. This system provides a convenient way to keep track of temperature variations in various applications, such as home automation, industrial processes, and environmental monitoring.
